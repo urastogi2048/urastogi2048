@@ -24,3 +24,10 @@
 <p align="center">
   <i>Flutter-centric development with strong programming fundamentals and backend exposure.</i>
 </p>
+---
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urastogi2048/urastogi2048/output/github-contribution-grid-snake-dark.svg" />
+</p>
