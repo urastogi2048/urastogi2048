@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urastogi2048&repo=Unnati_Records&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
+<h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-rastogi-8b1bb0317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
