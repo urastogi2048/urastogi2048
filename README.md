@@ -1,3 +1,3 @@
-# Hi 👋 I'm Utkarsh Rastogi
-
-This is my GitHub profile README.
+<p align="center">
+  <img src="assets/banner.png" alt="Utkarsh Rastogi Banner" />
+</p>
