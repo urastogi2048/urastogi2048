@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Utkarsh Rastogi Banner" />
+  <img src="assets/bannerog.png" alt="Utkarsh Rastogi Banner" />
 </p>
