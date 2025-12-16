@@ -8,8 +8,19 @@
 
 <p align="center">
 🎓 2nd-year CSE student at <b>IIIT Bhagalpur</b> <br/>
-📱 Building real-world applications using <b>Flutter & NodeJs</b>
+📱 Building real-world applications using <b>Flutter & NodeJs</b><br/>
 🧠 Interested in <b>Data Structures, Algorithms & Competitive Programming</b> <br/>
 🌱 Experience in <b>open-source contributions and collaborative projects</b><br/>
 
+</p>
+---
+
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,js,nodejs,mongodb,unity,git,github,vscode,postman&perline=6" />
+</p>
+
+<p align="center">
+  <i>Flutter-centric development with strong programming fundamentals and backend exposure.</i>
 </p>
