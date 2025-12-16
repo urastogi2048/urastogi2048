@@ -26,8 +26,23 @@
 </p>
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+---
+---
+
+<h2 align="center">🚀 Top Languages</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/urastogi2048/urastogi2048/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urastogi2048&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-rastogi-8b1bb0317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:utkarshrastogi2048@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-utkarshrastogi2048@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
